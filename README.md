@@ -10,3 +10,4 @@ This Repository contains my projects from CSCE-145 Algorithmic Design I course a
 - TrianglePrint is a simple command line print method that will print asterisks forming a triangle based on an inputted horizontal height.
 - VowelSort analyzes a user-inputted string (sentence) and counts how many of each vowel (A, E, I, O, U) are used, then prints to the console how many of each vowel were used in a sorted order.
 - MatrixArbiter allows a user to enter two matrices of compatable dimensions and add their individual components into a resultant matrix.
+- MatrixFlip exemplifies the method of horizontally flipping a matrix's data in a simple coding example.
