@@ -39,30 +39,30 @@ public class matrixarbiter {
 		
 		int[][] matrixc = new int[ax][ay]; //Creates the third matrix
 		
-		for(int printay = 0; printay < ay; printay++) { //Print input matrices and resulting matrix.
-			for(int printax = 0; printax < ax; printax++) {
+		for(int printax = 0; printax < ax; printax++) { //Print input matrixa
+			for(int printay = 0; printay < ay; printay++) {
 				System.out.print(matrixa[printax][printay]+" ");
 			}
 			System.out.println();
 		}
 		
 		System.out.println("+");
-		for(int printby = 0; printby < by; printby++) {
-			for(int printbx = 0; printbx < bx; printbx++) {
+		for(int printbx = 0; printbx < bx; printbx++) { //Print input matrixb
+			for(int printby = 0; printby < by; printby++) {
 				System.out.print(matrixb[printbx][printby]+" ");
 			}
 			System.out.println();
 		}
 		
 		System.out.println("=");
-		for(int addy = 0; addy < by; addy++) {
-			for(int addx = 0; addx < bx; addx++) {
+		for(int addx = 0; addx < bx; addx++) {
+			for(int addy = 0; addy < by; addy++) {
 				matrixc[addx][addy] = matrixa[addx][addy] + matrixb[addx][addy]; //Add components for matrixc
 			}
 		}
 		
-		for(int printcy = 0; printcy < by; printcy++) {
-			for(int printcx = 0; printcx < bx; printcx++) {
+		for(int printcx = 0; printcx < bx; printcx++) {
+			for(int printcy = 0; printcy < by; printcy++) {
 				System.out.print(matrixc[printcx][printcy]+" "); //Print values of resulting matrix
 			}
 			System.out.println();
