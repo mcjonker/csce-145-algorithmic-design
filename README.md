@@ -14,3 +14,4 @@ This Repository contains my projects from CSCE-145 Algorithmic Design I course a
 - AppleArbiter is a simple program that shows the user of multiple classes and the testing of their functions.
 - CoffeeArbiter tests the use of accessors, constructors, and mutators. Users can enter coffee types and their caffeine contents and then can use additional methods to determine if the items are equal (duplicates).
 - DateAndTime is a simplification of DateArbiter that uses a driver (driver written by JJ Shepherd) in conjunction with the code of DateArbiter to use multiple classes to call separate functions of the date verfication process.
+- CollisionArbiter is a program that uses a driver (driver written by JJ Shepherd) in conjunction code of CollisionArbiter to test for the collision of two user-defined circles by their diameters and positions as they move around based on the user-defined directional velocities.
