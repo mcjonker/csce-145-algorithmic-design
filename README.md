@@ -18,3 +18,4 @@ This Repository contains my projects from CSCE-145 Algorithmic Design I course a
 - BicycleBuilder users a driver (driver written by JJ Shepherd) to test the creation of a bike (object) made up of several other objects (a frame and two wheels). This tests object oriented construction on a second level.
 - SandwichArbiter allows users to construct two peanut butter and jelly and then check if they are identical. A simple object-based project that will make you hungry after spending too much time in it.
 - LaundryArbiter allows a user to enter their clothes and note their colors, storing in different drawers of a dresser based on what the type of clothing entered is. Each drawer holds up to 10 articles of clothing for a maximum of 50 total items stored (at 5 drawers).
+- StringHelper tests the use of static methods with a few fun outputs.
