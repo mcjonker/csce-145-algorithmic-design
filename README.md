@@ -19,3 +19,4 @@ This Repository contains my projects from CSCE-145 Algorithmic Design I course a
 - SandwichArbiter allows users to construct two peanut butter and jelly and then check if they are identical. A simple object-based project that will make you hungry after spending too much time in it.
 - LaundryArbiter allows a user to enter their clothes and note their colors, storing in different drawers of a dresser based on what the type of clothing entered is. Each drawer holds up to 10 articles of clothing for a maximum of 50 total items stored (at 5 drawers).
 - StringHelper tests the use of static methods with a few fun outputs.
+- BoxSort allows a user to enter the number of boxes they wish to sort (by volume), then intakes the lable, length, width, and height of the boxes. After all boxes have been labeled and dimensioned, they are sorted from least to greatest volume and printed to the command line. The user can then choose to quit or sort a new array of boxes.
