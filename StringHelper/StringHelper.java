@@ -3,7 +3,6 @@
  */
 
 public class StringHelper {
-	//private String input;
 	
 	public static boolean hasAllUniqueCharaters(String aS) {
 		aS.trim();
