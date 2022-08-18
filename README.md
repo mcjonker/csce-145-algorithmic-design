@@ -1,5 +1,5 @@
 # csce145-algorithmic-design
-This Repository contains my projects from CSCE-145 Algorithmic Design I course.
+This Repository contains my projects from CSCE-145 Algorithmic Design I.
 
 - RandomDice is a program that will output the results of rolling a 6-sided dice the entered number of times.
 - BelowAverage will intake the average temperatures over a period of time, determine the average, and which days were below the average temperature.
